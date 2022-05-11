@@ -1,28 +1,5 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: black;
   box-sizing: border-box;
-}
-
-.container {
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  background: #222;
-}
-
-.card {
-  width: 65%;
-  height: 12%;
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  border: 1px solid #e6e7e8;
-  border-radius: 4px;
-  background-color: #fff;
-  background-clip: border-box;
 }
